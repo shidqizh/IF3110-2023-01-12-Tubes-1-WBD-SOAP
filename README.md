@@ -29,11 +29,9 @@ Pastikan melakukan instalasi terhadap beberapa requirement berikut:
 5. Buka browser lalu masukkan "http://localhost:8080/public/login"
 
 ## Pembagian Kerja Kelompok
-Entity: 13521068
-Repo: 13521068
-Interface: 13521097
-Service: 13521097
-Middleware: 13521097
-
-Database, App:
-13521068, 13521097
+- Entity: 13521068
+- Repo: 13521068
+- Interface: 13521097
+- Service: 13521097
+- Middleware: 13521097
+- Database, App: 13521068, 13521097
